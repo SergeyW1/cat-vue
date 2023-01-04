@@ -9,7 +9,7 @@
           alt="cat"
           :style="[imgStyles, imgRotate]"
         />
-        <span v-else>Кот спрятался</span>
+        <span v-else>Кот спрятался!</span>
       </div>
       <div class="cat-content__nav">
         <h1>Красивый котик</h1>
